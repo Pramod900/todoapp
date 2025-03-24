@@ -8,7 +8,3 @@ class Todolist(models.Model):
     def __str__(self):
         return self.text
     
-# Tate bohi bohi rod de
-
-# "ali kali jali dim bor pira pari dim
-
